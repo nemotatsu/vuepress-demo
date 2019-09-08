@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemotatsu/vuepress-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemotatsu/vuepress-demo/issues"
+  },
+  "homepage": "https://github.com/nemotatsu/vuepress-demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.4"
+  }
+}
